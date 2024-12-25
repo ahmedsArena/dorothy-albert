@@ -1,7 +1,7 @@
 # dorothy-albert
 Welcome to the README file of Team Dorothy-Albert!
 
-We are a group of trainees participating in the HackBio Genomics Internship, under the guidance of our team manager: Bhavi, and Rajarshi, team leader: Yossra,Ahmed  leader assistants: Simeon and Ahmed.
+We are a group of trainees participating in the HackBio Genomics Internship, under the guidance of our team manager: Bhavi, and Rajarshi, team leader: Yossra,Ahmed  leader assistants: Simeon.
 
 The members of our team are Rehab, Drake, Simeon, Ahmed, and Yossra.
 we are at the third stage of our internship,
